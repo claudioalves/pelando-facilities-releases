@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "recommended": "2.2.0",
+  "versions": [
+    {
+      "version": "2.2.0",
+      "date": "2026-10-18",
+      "notes": "Atualização pela página de configurações, com opção de voltar versão. 'Reportar ao usuário' também no Rejeitar e Excluir do backoffice. O ladrão compara loja, imagem e preço.",
+      "url": "https://raw.githubusercontent.com/claudioalves/pelando-facilities-releases/main/zips/pelando-facilities-2.2.0.zip",
+      "sha256": "b43e79cdfa2d6fea585db34c06f564953c0abd8ee71fe44870cc2ceef91a16a5",
+      "minUpdaterVersion": "2.2.0"
+    },
+    {
+      "version": "2.1.0",
+      "date": "2026-10-16",
+      "notes": "O ladrão só destaca promoções da mesma loja, com o mesmo preço ou arredondado e título parecido.",
+      "url": "https://raw.githubusercontent.com/claudioalves/pelando-facilities-releases/main/zips/pelando-facilities-2.1.0.zip",
+      "sha256": "7507adad7d4e03fdc373aea60718817004c444268361c8b85d18a35c781fb2ff"
+    }
+  ]
+}
