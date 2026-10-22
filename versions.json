@@ -1,7 +1,15 @@
 {
   "format": 1,
-  "recommended": "2.2.0",
+  "recommended": "2.3.0",
   "versions": [
+    {
+      "version": "2.3.0",
+      "date": "2026-10-22",
+      "notes": "Aprovar flutuante que salva e aprova. Monitor dos sites do Pelando e Promoninja em todos os backoffices. Reports da equipe destacados nos comentários. No chat, botões para abrir o usuário no Pelando e no backoffice.",
+      "url": "https://raw.githubusercontent.com/claudioalves/pelando-facilities-releases/main/zips/pelando-facilities-2.3.0.zip",
+      "sha256": "cbfcc78bad7099fed5748476371bbf1c689dba192bb748f7885b913f4bf02b8d",
+      "minUpdaterVersion": "2.3.0"
+    },
     {
       "version": "2.2.0",
       "date": "2026-10-18",
