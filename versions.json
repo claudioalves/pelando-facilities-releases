@@ -1,7 +1,15 @@
 {
   "format": 1,
-  "recommended": "2.3.0",
+  "recommended": "2.4.0",
   "versions": [
+    {
+      "version": "2.4.0",
+      "date": "2026-10-24",
+      "notes": "Botão 'Testar Promoção' nas promoções da Magalu: faz o checkout numa janela pequena, sem finalizar o pedido, e mostra se o preço no PIX (sem frete) bate com o anunciado, em verde, amarelo ou vermelho, com o tempo de cada etapa e um print dos valores.",
+      "url": "https://raw.githubusercontent.com/claudioalves/pelando-facilities-releases/main/zips/pelando-facilities-2.4.0.zip",
+      "sha256": "6dcd3b666d6f109bf5500910d30d3f48f12f085386d4ac2195e910f587c136bd",
+      "minUpdaterVersion": "2.4.0"
+    },
     {
       "version": "2.3.0",
       "date": "2026-10-22",
