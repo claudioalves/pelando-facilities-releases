@@ -1,7 +1,15 @@
 {
   "format": 1,
-  "recommended": "2.4.0",
+  "recommended": "2.5.0",
   "versions": [
+    {
+      "version": "2.5.0",
+      "date": "2026-10-25",
+      "notes": "Tira o Testar Promoção (volta depois com mais lojas). Corrige a descrição do formulário de publicação do Promoninja que não aceitava texto com a página traduzida pelo Chrome.",
+      "url": "https://raw.githubusercontent.com/claudioalves/pelando-facilities-releases/main/zips/pelando-facilities-2.5.0.zip",
+      "sha256": "7f676e854bf2ac13686d6841067003fd4eab95e980d32d516ceb28027363ae3f",
+      "minUpdaterVersion": "2.5.0"
+    },
     {
       "version": "2.4.0",
       "date": "2026-10-24",
