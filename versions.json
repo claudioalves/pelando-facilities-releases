@@ -1,7 +1,15 @@
 {
   "format": 1,
-  "recommended": "2.5.0",
+  "recommended": "3.0.0",
   "versions": [
+    {
+      "version": "3.0.0",
+      "date": "2026-11-05",
+      "notes": "Versão 3.0: editar os textos do chat pelo lápis, botão Colar imagem na imagem da promoção (Pelando e Promoninja) e ajustes gerais. Testar Promoção segue desligado nesta versão.",
+      "url": "https://raw.githubusercontent.com/claudioalves/pelando-facilities-releases/main/zips/pelando-facilities-3.0.0.zip",
+      "sha256": "faf612f14f12b3b9691d13843dac46528cf15e5e7b77ab07a4714b6f9189b7e9",
+      "minUpdaterVersion": "3.0.0"
+    },
     {
       "version": "2.5.0",
       "date": "2026-10-25",
