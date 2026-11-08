@@ -1,7 +1,15 @@
 {
   "format": 1,
-  "recommended": "3.0.0",
+  "recommended": "3.1.0",
   "versions": [
+    {
+      "version": "3.1.0",
+      "date": "2026-11-08",
+      "notes": "Resumo da moderação na página da promoção (veredito do Keepa e do Testar Promoção, com motivo sugerido) e card Histórico Keepa nas promoções da Amazon. O Testar Promoção agora é opcional: ative em Configurações do chat (vem desligado).",
+      "url": "https://raw.githubusercontent.com/claudioalves/pelando-facilities-releases/main/zips/pelando-facilities-3.1.0.zip",
+      "sha256": "bcb6a58445eda08b6ab3412716d7d981bce20ab47aa6d2987b0107143d5177ed",
+      "minUpdaterVersion": "3.1.0"
+    },
     {
       "version": "3.0.0",
       "date": "2026-11-05",
