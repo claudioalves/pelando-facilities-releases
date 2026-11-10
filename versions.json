@@ -1,7 +1,15 @@
 {
   "format": 1,
-  "recommended": "3.1.0",
+  "recommended": "3.2.0",
   "versions": [
+    {
+      "version": "3.2.0",
+      "date": "2026-11-10",
+      "notes": "Promoninja México: backoffice, monitor dos sites, próximo país e busca no Promodescuentos.",
+      "url": "https://raw.githubusercontent.com/claudioalves/pelando-facilities-releases/main/zips/pelando-facilities-3.2.0.zip",
+      "sha256": "084400ec7d5e7da2a65df092230449620f6fb0357f814d994b4936646ca5c7c1",
+      "minUpdaterVersion": "3.2.0"
+    },
     {
       "version": "3.1.0",
       "date": "2026-11-08",
