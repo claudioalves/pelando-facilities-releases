@@ -1,7 +1,15 @@
 {
   "format": 1,
-  "recommended": "3.3.0",
+  "recommended": "4.0.0",
   "versions": [
+    {
+      "version": "4.0.0",
+      "date": "2026-11-13",
+      "notes": "Tira da extensão o que o Backoffice já faz (atalhos Chat e Pelando recentes, ícones de busca e palavras-chave, Colar imagem, Justificar ao usuário, Salvar repetido no card Ações). Tags do título: saem REC, Meli+ e Prime; as suas tags e o + Adicionar ficam na linha de tags do Backoffice.",
+      "url": "https://raw.githubusercontent.com/claudioalves/pelando-facilities-releases/main/zips/pelando-facilities-4.0.0.zip",
+      "sha256": "88690157d07e096c5c4c3f38da7276c1cf3d733277e640b5001b3e36c15d9b67",
+      "minUpdaterVersion": "4.0.0"
+    },
     {
       "version": "3.3.0",
       "date": "2026-11-13",
