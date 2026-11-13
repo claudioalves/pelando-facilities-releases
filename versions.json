@@ -1,7 +1,15 @@
 {
   "format": 1,
-  "recommended": "3.2.0",
+  "recommended": "3.3.0",
   "versions": [
+    {
+      "version": "3.3.0",
+      "date": "2026-11-13",
+      "notes": "Tira da extensão o que o Backoffice já faz: atalhos Chat e Pelando recentes, ícones de busca e de palavras-chave no Backoffice, Colar imagem, Justificar ao usuário e o Salvar repetido no card Ações.",
+      "url": "https://raw.githubusercontent.com/claudioalves/pelando-facilities-releases/main/zips/pelando-facilities-3.3.0.zip",
+      "sha256": "ad72350c070eed8d9f3be28b6c33dd2bad9798fb703f87da20caf5b2ae6668d4",
+      "minUpdaterVersion": "3.3.0"
+    },
     {
       "version": "3.2.0",
       "date": "2026-11-10",
