@@ -1,7 +1,15 @@
 {
   "format": 1,
-  "recommended": "4.0.0",
+  "recommended": "4.0.1",
   "versions": [
+    {
+      "version": "4.0.1",
+      "date": "2026-11-14",
+      "notes": "Tira o 'Reportar ao usuário' duplicado da janela de motivos do Backoffice e volta a grifar os dias das promoções reportadas como expiradas no novo formato de data.",
+      "url": "https://raw.githubusercontent.com/claudioalves/pelando-facilities-releases/main/zips/pelando-facilities-4.0.1.zip",
+      "sha256": "3796fa74916e2e4afca0e6672a788bd96b0a075db26bdc8c6ae555bf83482972",
+      "minUpdaterVersion": "4.0.1"
+    },
     {
       "version": "4.0.0",
       "date": "2026-11-13",
