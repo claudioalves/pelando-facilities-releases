@@ -1,7 +1,15 @@
 {
   "format": 1,
-  "recommended": "4.0.1",
+  "recommended": "4.1.0",
   "versions": [
+    {
+      "version": "4.1.0",
+      "date": "2026-11-18",
+      "notes": "Novo botão \"Colar imagem\" ao lado de Descrição curta: cola na descrição a imagem copiada (print do carrinho). Monitor de sites agora inclui o Promoninja Argentina e segue a ordem do menu de países do backoffice.",
+      "url": "https://raw.githubusercontent.com/claudioalves/pelando-facilities-releases/main/zips/pelando-facilities-4.1.0.zip",
+      "sha256": "c2976bf31303d219287ac1f41608fea743982aa068c169419aae1c552a463ff8",
+      "minUpdaterVersion": "4.1.0"
+    },
     {
       "version": "4.0.1",
       "date": "2026-11-14",
