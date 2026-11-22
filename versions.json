@@ -1,7 +1,15 @@
 {
   "format": 1,
-  "recommended": "4.1.0",
+  "recommended": "4.2.0",
   "versions": [
+    {
+      "version": "4.2.0",
+      "date": "2026-11-21",
+      "notes": "Mensagens prontas: temas e mensagens passam a ficar no armazenamento local do Chrome, então importar muitas mensagens não dá mais o erro de cota. As 268 mensagens da equipe já vêm cadastradas.",
+      "url": "https://raw.githubusercontent.com/claudioalves/pelando-facilities-releases/main/zips/pelando-facilities-4.2.0.zip",
+      "sha256": "ad7340da81962a466eca488baf40a8f2fe37a96d0494b7544865a5fd38d2cca4",
+      "minUpdaterVersion": "4.2.0"
+    },
     {
       "version": "4.1.0",
       "date": "2026-11-18",
