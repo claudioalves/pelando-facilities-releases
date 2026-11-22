@@ -1,7 +1,15 @@
 {
   "format": 1,
-  "recommended": "4.2.0",
+  "recommended": "4.2.1",
   "versions": [
+    {
+      "version": "4.2.1",
+      "date": "2026-11-21",
+      "notes": "Mensagens prontas: temas e mensagens da base que sumiram depois do erro de cota (Resource::kQuotaBytes) voltam sozinhos.",
+      "url": "https://raw.githubusercontent.com/claudioalves/pelando-facilities-releases/main/zips/pelando-facilities-4.2.1.zip",
+      "sha256": "5a05c0db57425e876997ac657348088487ffe7bc021e0863b4b4a4fd81e771e2",
+      "minUpdaterVersion": "4.2.1"
+    },
     {
       "version": "4.2.0",
       "date": "2026-11-21",
